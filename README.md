@@ -1,6 +1,6 @@
 # Food-calories-nutrients-detection
 
-AI-powered application that helps users understand what they’re eating — simply by uploading an image of their plate through an AR/VR interface.
+AI-powered application that helps users understand what they’re eating — simply by uploading an image of their plate.
 
 It detects and analyzes food items in real-time, calculates total calories and nutrients, compares the intake with the user’s health goals, and then provides smart recommendations:
 
