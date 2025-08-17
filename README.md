@@ -2,19 +2,13 @@
 
 AI-powered application that helps users understand what they’re eating — simply by uploading an image of their plate.
 
-It detects and analyzes food items in real-time, calculates total calories and nutrients, compares the intake with the user’s health goals, and then provides smart recommendations:
-
-If you’ve eaten too much, it suggests exercises to burn extra calories.
-
-If you’ve eaten too little, it recommends foods to bridge the gap.
-
-It also includes exercise pose detection to track your real-time workouts, count repetitions, and adjust your calorie balance accordingly.
+It detects and analyzes food items in real-time, calculates total calories and nutrients, compares the intake with the user’s health goals.
 
 Whether you're tracking your fitness, managing weight, or just curious about your meal — this app gives you full insight and control, all in an engaging and interactive experience.
 
 ✨ KEY FEATURES
 
-✔️ Upload food image via AR/VR (Meta Quest or camera)
+✔️ Upload food image 
 
 ✔️ Detect food items on the plate using YOLOv11
 
@@ -32,10 +26,6 @@ Whether you're tracking your fitness, managing weight, or just curious about you
   
   • Food/snacks if you're under
   
-✔️ Exercise tracking using webcam + MediaPipe Pose
-
-✔️ Counts reps & monitors form in real-time
-
 ✔️ Interactive calorie adjustments based on actual physical activity
 
  # Food Calorie Detection
