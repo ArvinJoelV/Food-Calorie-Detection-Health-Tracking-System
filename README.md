@@ -38,8 +38,6 @@ https://github.com/user-attachments/assets/f19d8ccc-d8ce-477c-8e6e-811fa42cbec3
 
 ✂️ Image Segmentation: SAM2 (Segment Anything Model)
 
-📊 Nutrition Analysis: Gemini API
-
 🎨 Frontend: HTML5, CSS3, JavaScript (with animations)
 
 🔗 Backend: Flask
